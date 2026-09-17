@@ -1,0 +1,111 @@
+# MODULE 6 : APRÈS LA CRÉATION — OBLIGATIONS FISCALES ET ADMINISTRATIVES
+# Source : DGID, finances.gouv.sn, senegalservices.sn
+
+## Ce que tu dois faire après avoir créé ton entreprise
+
+### 1. Ouvrir un compte bancaire professionnel
+- Obligatoire pour toutes les sociétés
+- Très recommandé pour les entreprises individuelles
+- Pièces généralement demandées : RCCM, NINEA, CNI du dirigeant, statuts (pour les sociétés)
+- Le NINEA est indispensable pour l'ouverture du compte
+
+### 2. La patente
+- Due par toute personne exerçant une activité commerciale ou industrielle au Sénégal
+- Pour les sociétés : la patente est due IMMÉDIATEMENT après immatriculation au RCCM
+- Calculée sur la valeur locative du local et sur le chiffre d'affaires
+- À payer chaque année auprès du Centre des Services Fiscaux
+
+### 3. Déclarations fiscales régulières
+Selon ton régime fiscal :
+- TVA (Taxe sur la Valeur Ajoutée) : applicable si ton chiffre d'affaires dépasse le seuil
+- BRS (Bordereau de Retenue à la Source) : si tu paies des salariés
+- Impôt sur le revenu (personnes physiques) ou IS (Impôt sur les Sociétés)
+- Déclarations à faire au Centre des Services Fiscaux de ton secteur
+
+### 4. Inscription à l'IPRES (retraite)
+- Obligatoire si tu as des employés salariés
+- IPRES = Institut de Prévoyance Retraite du Sénégal
+- Cotisation employeur + cotisation employé
+
+### 5. Inscription à la Caisse de Sécurité Sociale (CSS)
+- Obligatoire si tu as des employés
+- Couvre les risques professionnels (accidents de travail, maladies professionnelles)
+- Cotisation basée sur les salaires versés
+
+### 6. Registre du personnel
+- Si tu embauches des employés, tu dois tenir un registre du personnel
+- Établir des contrats de travail
+
+## Régimes fiscaux au Sénégal
+
+### Contribuable de la Direction des Grandes Entreprises (DGE)
+- Chiffre d'affaires ≥ 1 milliard FCFA
+- Déclarations mensuelles de TVA
+
+### Contribuable du Centre des Services Fiscaux (CSF) — Régime du réel
+- Chiffre d'affaires entre 50 millions et 1 milliard FCFA
+
+### Régime Simplifié d'Imposition (RSI)
+- Chiffre d'affaires entre 5 millions et 50 millions FCFA
+
+### Contribution Globale Unique (CGU)
+- Pour les très petites entreprises (chiffre d'affaires inférieur à 5 millions FCFA)
+- Taxe unique et simplifiée
+- Idéale pour les débutants et micro-entrepreneurs
+
+## Obligations comptables
+
+### Entreprise individuelle
+- Tenir un livre de caisse (recettes / dépenses)
+- Conserver toutes les factures et reçus
+
+### SARL et sociétés
+- Comptabilité formelle obligatoire
+- Bilan annuel à déposer
+- Faire appel à un comptable ou expert-comptable recommandé
+
+## Ressources et accompagnement disponibles
+
+### APIX (Agence de Promotion des Investissements et des Grands Travaux)
+- Guichet unique de création d'entreprise
+- Assistance aux investisseurs
+- Site : investinsenegal.com
+
+### ADEPME (Agence de Développement et d'Encadrement des PME)
+- Accompagnement des petites et moyennes entreprises
+- Formation, conseil, financement
+
+### DER/FJ (Délégation à l'Entrepreneuriat Rapide des Femmes et des Jeunes)
+- Financement pour les jeunes et femmes entrepreneurs
+- Formations et accompagnement
+
+### FONGIP (Fonds de Garantie des Investissements Prioritaires)
+- Garantit les prêts bancaires pour les PME
+- Facilite l'accès au crédit
+
+### Guichet Jeunesse
+- Ressources pour les jeunes entrepreneurs
+- Site : guichetjeunesse.sn
+
+## Questions fréquentes sur les obligations
+
+Q : Est-ce qu'on peut travailler sans ouvrir un compte bancaire professionnel ?
+R : Pour une entreprise individuelle, ce n'est pas légalement obligatoire mais très recommandé.
+Pour une SARL, le compte est obligatoire et le capital doit y être déposé dès la création.
+
+Q : Quand commence-t-on à payer des impôts ?
+R : Pour la CGU (petites entreprises), tu paies une taxe unique annuelle.
+Pour les autres régimes, les déclarations commencent dès le premier mois d'activité.
+
+Q : Doit-on obligatoirement avoir un comptable ?
+R : Pour les sociétés (SARL, SA), oui c'est fortement recommandé et souvent obligatoire pour le bilan.
+Pour les entreprises individuelles en CGU, un simple cahier de comptes peut suffire au départ.
+
+Q : Peut-on fermer son entreprise facilement ?
+R : Oui, mais il y a une procédure (dissolution, liquidation, radiation au RCCM).
+Il faut régulariser ses dettes fiscales et sociales avant de clôturer.
+
+Q : Y a-t-il des financements disponibles pour les jeunes entrepreneurs ?
+R : Oui. La DER/FJ finance spécifiquement les jeunes et femmes entrepreneurs.
+Le FONGIP garantit les prêts bancaires. L'ADEPME accompagne les PME.
+Renseignez-vous directement auprès de ces structures.

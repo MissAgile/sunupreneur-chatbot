@@ -1,0 +1,130 @@
+# MODULE 5 : PROCÉDURE COMPLÈTE DE CRÉATION D'ENTREPRISE AU SÉNÉGAL
+# Source : APIX, senegalservices.sn, guichetjeunesse.sn, africanlegalfactory.com
+
+## Le parcours complet en 6 étapes
+
+### ÉTAPE 1 — Choisir sa forme juridique
+Décide quel type d'entreprise tu veux créer :
+- Seul + activité simple → Entreprise Individuelle
+- Seul + protection biens → SUARL
+- Avec des associés → SARL
+- Projet collectif → GIE
+- Grande structure → SA
+
+### ÉTAPE 2 — Choisir et vérifier son nom
+- Vérifier la disponibilité sur seninfogreffe.sn
+- Choisir un nom disponible, distinct, licite
+- Si tu veux un nom commercial : prévoir 10 000 FCFA pour l'OAPI
+
+### ÉTAPE 3 — Préparer les documents
+Documents communs :
+- 2 photocopies de la CNI ou passeport
+- Extrait du casier judiciaire (moins de 3 mois) OU déclaration sur l'honneur (disponible à l'APIX)
+- Certificat de résidence (délivré par la police, mairie, ou chef de quartier)
+- Justificatif du lieu d'activité (contrat de bail ou attestation de domicile)
+
+Documents supplémentaires pour sociétés (SARL, SA) :
+- Statuts rédigés et signés (notaire obligatoire)
+- PV de nomination du gérant
+- Preuve de dépôt du capital en banque ou chez le notaire
+- CNI de tous les associés
+
+### ÉTAPE 4 — Se rendre au BCE de l'APIX (guichet unique)
+Adresse : Centre de Facilitation des Procédures Administratives de l'APIX, Dakar
+Le BCE regroupe en un seul lieu :
+- Un représentant du Ministère des Finances
+- Un représentant du Ministère de la Justice
+- Un représentant du Ministère du Travail
+- Un représentant de l'ANSD
+- Un représentant de l'OAPI
+Horaires : Dépôt de 8h à 11h — Retrait de 15h à 17h
+
+### ÉTAPE 5 — Recevoir les documents officiels (24h après dépôt)
+En une seule visite à l'APIX, tu obtiens :
+- Le Registre du Commerce (RCCM)
+- L'avis d'immatriculation NINEA
+- La déclaration d'établissement
+
+### ÉTAPE 6 — Après la création (obligations)
+- Ouvrir un compte bancaire professionnel
+- Faire la déclaration fiscale initiale
+- S'inscrire à l'IPRES (retraite) et à la Caisse de Sécurité Sociale si tu as des employés
+- Payer la patente (pour les sociétés, elle est due dès l'immatriculation)
+
+## Récapitulatif des coûts selon la forme juridique
+
+### Entreprise individuelle SANS nom commercial
+| Frais | Montant |
+|-------|---------|
+| Frais de greffe | 10 000 FCFA |
+| Timbre fiscal | 2 000 FCFA |
+| Participation CCIAD | 4 000 FCFA |
+| NINEA (timbre) | 1 000 FCFA |
+| **TOTAL ESTIMÉ** | **~17 000 FCFA** |
+
+### Entreprise individuelle AVEC nom commercial
+| Frais | Montant |
+|-------|---------|
+| Frais de greffe | 10 000 FCFA |
+| Enregistrement nom commercial OAPI | 10 000 FCFA |
+| Timbre fiscal | 2 000 FCFA |
+| Participation CCIAD | 4 000 FCFA |
+| NINEA (timbre) | 1 000 FCFA |
+| **TOTAL ESTIMÉ** | **~27 000 FCFA** |
+
+### SARL (avec notaire)
+| Frais | Montant |
+|-------|---------|
+| Frais de notaire (pour capital 1 000 000 FCFA) | ~400 000 FCFA |
+| Droits d'enregistrement | 25 000 FCFA |
+| Frais de greffe | 10 000 FCFA |
+| NINEA | Gratuit + timbre 1 000 FCFA |
+| Capital minimum à réunir | 100 000 FCFA |
+| **TOTAL ESTIMÉ** | **~450 000 FCFA** |
+
+Note : Le capital SARL est libéré immédiatement après immatriculation. Les apports
+supérieurs à 5 000 000 FCFA doivent être évalués par un commissaire aux apports.
+
+### GIE
+| Frais | Montant |
+|-------|---------|
+| Enregistrement des statuts au Centre des Services Fiscaux | Variable |
+| Frais de greffe | 10 000 FCFA |
+| NINEA | Gratuit + timbre 1 000 FCFA |
+| **TOTAL ESTIMÉ** | **~15 000 à 20 000 FCFA** |
+
+## Documents remis à la fin
+
+À l'issue de la procédure APIX, tu reçois :
+1. Registre du Commerce et du Crédit Mobilier (RCCM)
+2. Avis d'immatriculation NINEA
+3. Déclaration d'établissement
+4. (Si nom commercial) Arrêté d'enregistrement OAPI
+
+## Délais résumés
+- Entreprise individuelle via APIX : 24 heures
+- Société (SARL, SA) via APIX : 24 à 72 heures (après passage chez le notaire)
+- Hors APIX (greffe tribunal) : 2 à 5 jours ouvrables
+
+## Questions fréquentes sur la procédure
+
+Q : Faut-il obligatoirement aller à Dakar pour créer son entreprise ?
+R : Non. Si ton entreprise est à Saint-Louis, Ziguinchor, Thiès ou toute autre ville,
+l'immatriculation se fait au greffe du tribunal régional de cette ville ou à la chambre de
+commerce locale. Seul l'APIX est basé à Dakar.
+
+Q : Peut-on tout faire en ligne ?
+R : Partiellement. Le NINEA peut être demandé en ligne sur e-ninea.ansd.sn. Pour le reste
+(RCCM, dépôt de dossier), un déplacement physique reste nécessaire pour l'instant.
+
+Q : Combien de temps prend la création d'une entreprise au total ?
+R : Via l'APIX : 24 heures pour une entreprise individuelle.
+Pour une SARL : compter 1 à 2 semaines (passage obligatoire chez le notaire avant l'APIX).
+
+Q : Peut-on créer une entreprise sans capital de départ ?
+R : Oui pour l'entreprise individuelle et le GIE, il n'y a pas de capital minimum.
+Pour la SARL et SUARL, le capital minimum est de 100 000 FCFA.
+
+Q : Peut-on se faire aider pour créer son entreprise ?
+R : Oui. L'APIX offre une assistance à la création. L'ADEPME accompagne aussi les PME.
+Le guichet jeunesse (guichetjeunesse.sn) propose des ressources pour les jeunes entrepreneurs.

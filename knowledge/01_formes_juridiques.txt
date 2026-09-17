@@ -1,0 +1,84 @@
+# MODULE 1 : FORMES JURIDIQUES AU SÉNÉGAL
+# Source : APIX, OHADA, creationdentreprise.sn
+
+## C'est quoi une forme juridique ?
+La forme juridique est le cadre légal dans lequel tu exerces ton activité. Elle définit :
+- Ta responsabilité en cas de dettes
+- Le capital minimum à réunir
+- Le nombre d'associés possible
+- Les impôts que tu paieras
+
+## Quelle forme choisir ?
+
+### TU ES SEUL ET TU VEUX RESTER SEUL
+
+→ ENTREPRISE INDIVIDUELLE (EI)
+- Pas de capital minimum requis
+- Tu es le seul propriétaire
+- Attention : tu es responsable sur tes biens personnels en cas de dettes
+- Idéal pour : petit commerce, artisan, prestataire de service, vendeur
+- La plus simple et la plus rapide à créer
+
+→ SUARL (Société Unipersonnelle à Responsabilité Limitée)
+- Tu es seul associé
+- Capital minimum : 100 000 FCFA
+- Ta responsabilité est limitée à ton apport (tes biens personnels sont protégés)
+- Plus sérieuse aux yeux des banques et clients
+
+### TU ES PLUSIEURS (2 personnes ou plus)
+
+→ SARL (Société à Responsabilité Limitée)
+- 2 associés minimum, 50 maximum
+- Capital minimum : 100 000 FCFA divisé en parts de 5 000 FCFA minimum
+- Responsabilité limitée aux apports de chacun
+- La forme la plus utilisée par les PME au Sénégal
+- Gérée par un ou plusieurs gérants
+
+→ SA (Société Anonyme)
+- Capital minimum : 10 000 000 FCFA
+- Minimum 3 actionnaires
+- Pour les grandes entreprises ou celles qui veulent lever des fonds en bourse
+- Gérée par un Conseil d'Administration et un PDG
+
+→ SAS (Société par Actions Simplifiée)
+- Très flexible dans son fonctionnement
+- Bonne option pour les startups et projets innovants
+
+→ GIE (Groupement d'Intérêt Économique)
+- Regroupement de personnes (physiques ou morales) pour une activité commune
+- Pas de capital minimum
+- Très utilisé par les groupements de femmes, coopératives, associations professionnelles
+- La dissolution des statuts et PV de constitution doit être faite par les membres eux-mêmes
+
+→ SNC (Société en Nom Collectif)
+- Tous les associés sont commerçants
+- Responsabilité solidaire et indéfinie (risqué)
+- Peu recommandée pour les débutants
+
+## Comparatif rapide
+
+| Forme | Seul | Plusieurs | Capital min | Responsabilité |
+|-------|------|-----------|-------------|----------------|
+| EI | Oui | Non | Aucun | Illimitée |
+| SUARL | Oui | Non | 100 000 FCFA | Limitée |
+| SARL | Non | 2-50 | 100 000 FCFA | Limitée |
+| SA | Non | 3+ | 10 000 000 FCFA | Limitée |
+| GIE | Oui/Non | Oui | Aucun | Variable |
+
+## Conseil pratique
+- Première activité commerciale simple → Entreprise Individuelle
+- Tu veux protéger tes biens personnels et tu es seul → SUARL
+- Vous êtes 2 ou 3 amis associés → SARL
+- Projet communautaire ou collectif → GIE
+- Grande levée de fonds prévue → SA
+
+## Questions fréquentes
+
+Q : Peut-on créer une entreprise si on est étudiant ?
+R : Oui, à condition d'avoir la majorité légale (18 ans).
+
+Q : Un étranger peut-il créer une entreprise au Sénégal ?
+R : Oui, quelle que soit la nationalité, toute personne peut créer une entreprise au Sénégal selon les formes prévues par l'OHADA.
+
+Q : Peut-on changer de forme juridique après création ?
+R : Oui, c'est possible mais ça nécessite des démarches administratives. Mieux vaut bien choisir dès le départ.

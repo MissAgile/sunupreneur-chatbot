@@ -1,0 +1,104 @@
+# MODULE 2 : CHOISIR ET ENREGISTRER SON NOM D'ENTREPRISE AU SÉNÉGAL
+# Source : OAPI, ASPIT, senegalservices.sn, seninfogreffe.sn
+
+## Les 4 types de noms à connaître
+
+### Dénomination sociale
+- Le nom officiel inscrit dans les statuts d'une société
+- Obligatoire pour les SARL, SA, GIE, etc.
+- Exemple : "Dakar Tech Solutions SARL"
+- Doit toujours être suivi de la mention de la forme juridique (SARL, SA, GIE…)
+
+### Nom commercial
+- Le nom sous lequel ton entreprise est connue du grand public
+- Peut être différent de la dénomination sociale
+- Exemple : ton entreprise s'appelle "DTS SARL" mais tu es connu sous "Dakar Tech"
+- Se protège via enregistrement à l'OAPI
+
+### Marque commerciale
+- Protège un nom, un logo, un slogan lié à des produits ou services précis
+- Valable 10 ans, renouvelable indéfiniment
+- Un dépôt OAPI protège dans les 17 pays membres (Sénégal, Côte d'Ivoire, Mali, Cameroun, etc.)
+
+### Enseigne
+- Le signe visible sur ta boutique ou ton local
+- Peut reprendre le nom commercial ou être un signe distinctif
+
+## Règles pour choisir un bon nom
+
+### Ce qui est obligatoire
+- Le nom doit être DISPONIBLE : pas déjà pris par une autre entreprise
+- Le nom doit être DISTINCT : ne pas ressembler à une marque ou entreprise existante
+- Le nom doit être LICITE : pas de termes trompeurs, contraires aux bonnes mœurs
+- Pour une SARL : le nom doit toujours être suivi de "SARL" sur tous les documents officiels
+
+### Ce qui est interdit
+- Utiliser le nom exact d'une société déjà immatriculée au RCCM
+- Copier ou imiter une marque déjà déposée à l'OAPI
+- Utiliser des termes protégés sans autorisation : "Banque", "Assurance", "National", "Sénégal"...
+- Induire en erreur sur la nature de l'activité
+
+### Conseil important
+Vérifie la disponibilité AVANT de faire imprimer des cartes de visite ou un logo.
+Un nom rejeté = tout recommencer.
+
+## Comment vérifier si un nom est disponible ?
+
+### Étape 1 : Vérifier au RCCM
+Site : seninfogreffe.sn
+→ Recherche par dénomination sociale
+→ Gratuit, accessible en ligne 24h/24
+
+### Étape 2 : Vérifier à l'OAPI
+→ Recherche dans la base des noms commerciaux et marques déposées
+→ Se fait physiquement à l'ASPIT ou lors du dépôt à l'APIX
+
+## Procédure d'enregistrement du nom commercial
+
+### Étape 1 — Vérifier la disponibilité
+Sur seninfogreffe.sn et à l'OAPI. Gratuit.
+
+### Étape 2 — Constituer le dossier
+Documents à réunir :
+- Formulaire de demande d'enregistrement (disponible à l'APIX/ASPIT)
+- Copie de la CNI (Carte Nationale d'Identité)
+- Description du nom et/ou logo
+- Paiement des frais
+
+### Étape 3 — Déposer le dossier
+Où : Bureau d'Appui à la Création d'Entreprise (BCE) de l'APIX
+Ou : ASPIT (Agence Sénégalaise pour la Propriété Industrielle et l'Innovation Technologique)
+Horaires dépôt APIX : 8h à 11h — Retrait : 15h à 17h
+
+### Étape 4 — Recevoir l'arrêté d'enregistrement
+- Document signé par le Directeur Général de l'OAPI
+- Numéro unique attribué à ton nom
+- Publication dans le Bulletin Officiel de la Propriété Intellectuelle (BOPI)
+
+### Étape 5 — Renouveler au bout de 10 ans
+- Même procédure que le dépôt initial
+- Un retard entraîne une taxe supplémentaire
+
+## Coûts
+
+| Démarche | Coût |
+|----------|------|
+| Vérification disponibilité (seninfogreffe.sn) | GRATUIT |
+| Enregistrement nom commercial à l'OAPI via APIX | 10 000 FCFA |
+| Supplément frais de greffe si nom commercial | +10 000 FCFA |
+| Opérer sous son propre prénom/nom | 0 FCFA |
+| Renouvellement après 10 ans | Variable |
+
+## Questions fréquentes
+
+Q : Est-ce obligatoire d'avoir un nom commercial ?
+R : Non. Si tu opères sous ton propre nom et prénom (ex : Ibrahima Diallo), aucun frais de nom commercial n'est dû. C'est uniquement si tu inventes un nom d'entreprise.
+
+Q : Un nom commercial protège-t-il automatiquement dans toute l'Afrique ?
+R : Oui, un dépôt OAPI protège dans les 17 pays membres dont la Côte d'Ivoire, le Mali, le Burkina Faso, le Cameroun, le Togo, le Bénin, etc.
+
+Q : Que se passe-t-il si quelqu'un utilise mon nom sans autorisation ?
+R : Si ton nom est enregistré à l'OAPI, tu peux demander des sanctions pénales. Sans enregistrement, tu peux difficilement te défendre légalement.
+
+Q : Peut-on avoir le même nom commercial qu'une entreprise d'un autre pays ?
+R : Non, si ce nom est déjà déposé à l'OAPI, il est protégé dans tous les 17 pays membres. Il faut choisir un nom différent.

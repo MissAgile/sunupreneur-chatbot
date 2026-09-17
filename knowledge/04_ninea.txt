@@ -1,0 +1,104 @@
+# MODULE 4 : LE NINEA — NUMÉRO D'IDENTIFICATION NATIONALE
+# Source : ANSD, finances.gouv.sn, e-ninea.ansd.sn, senegalservices.sn
+
+## C'est quoi le NINEA ?
+Le NINEA (Numéro d'Identification National des Entreprises et des Associations) est un code unique
+à 9 chiffres. C'est le matricule officiel de toute entité exerçant au Sénégal.
+
+Il permet d'identifier ton entreprise auprès de :
+- L'administration fiscale (impôts et taxes)
+- Les douanes (import/export via ORBUS)
+- Les banques (ouverture de compte professionnel)
+- Les marchés publics (appels d'offres)
+- La sécurité sociale (IPRES, Caisse de Sécurité Sociale)
+
+Le NINEA doit apparaître sur toutes tes lettres, factures, quittances et reçus officiels.
+
+## Qui doit avoir un NINEA ?
+Absolument tout le monde qui exerce une activité au Sénégal :
+- Entreprises individuelles
+- Sociétés : SARL, SA, SAS, SUARL, SNC
+- GIE
+- Associations et ONG
+- Syndicats et partis politiques
+- Administrations publiques
+- Professions libérales (médecins, avocats, architectes…)
+- Même les activités du secteur informel
+
+## Le NINEA est-il gratuit ou payant ?
+Le NINEA est GRATUIT.
+Seul un timbre fiscal de 1 000 FCFA est requis pour constituer le dossier.
+La délivrance elle-même ne coûte rien de plus.
+
+## Où faire la demande ?
+
+### Option 1 — En ligne (le plus simple) ✓ RECOMMANDÉ
+Plateforme : e-ninea.ansd.sn
+Procédure 100% en ligne, sans se déplacer.
+Lancée en 2026 par l'ANSD (Agence Nationale de la Statistique et de la Démographie).
+Accessible aussi via le portail e-Sénégal.
+
+### Option 2 — Via l'APIX (le plus rapide si création d'entreprise)
+Au Bureau d'Appui à la Création d'Entreprise (BCE) de l'APIX.
+Le NINEA est délivré en même temps que le RCCM → délai : 24 à 48 heures.
+Avantage : tout en un seul déplacement.
+
+### Option 3 — Centre des Services Fiscaux (CSF)
+Au centre fiscal de ton lieu de domicile fiscal.
+Délai : environ 3 jours ouvrables.
+
+### Option 4 — Via l'ADEPME
+Pour les petites et moyennes entreprises, l'ADEPME peut transmettre la demande directement à la DGID.
+
+## Documents à fournir
+
+### Personne physique (entreprise individuelle)
+- Demande manuscrite adressée au chef du centre des services fiscaux
+- Photocopie de la CNI (Carte Nationale d'Identité)
+- Timbre fiscal de 1 000 FCFA
+- Justificatif de domicile professionnel : contrat de bail ou titre de propriété du lieu d'activité
+- RCCM (si déjà obtenu)
+
+### Personne morale (société, GIE, association)
+- Registre de commerce (RCCM)
+- Statuts de la société/association
+- CNI du dirigeant (gérant, président)
+
+## Délais de délivrance
+- Via l'APIX/BCE : 24 à 48 heures
+- Via e-ninea.ansd.sn (en ligne) : quelques jours
+- Via les Centres des Services Fiscaux : environ 3 jours ouvrables
+
+## Point important : RCCM avant NINEA (sauf APIX)
+Si tu passes par les centres fiscaux ou la CCIAD, tu dois d'abord avoir ton RCCM avant de
+demander le NINEA. En passant par l'APIX, les deux sont délivrés en même temps.
+
+## Après avoir obtenu ton NINEA
+- Ouvre un compte bancaire professionnel
+- Commence tes déclarations fiscales (TVA, BRS…)
+- Inscris-toi à l'IPRES et à la Caisse de Sécurité Sociale si tu as des employés
+- Inscris ton NINEA sur toutes tes factures et documents commerciaux
+
+## Mise à jour du NINEA
+Si tu déménages ton entreprise, tu dois impérativement mettre à jour ton NINEA
+sur e-ninea.ansd.sn pour éviter tout blocage fiscal ou douanier.
+
+## Questions fréquentes
+
+Q : Le NINEA est-il vraiment gratuit ?
+R : Oui, totalement gratuit. Tu paies juste un timbre fiscal de 1 000 FCFA pour le dossier.
+Méfie-toi des intermédiaires qui te demandent plus.
+
+Q : Peut-on obtenir le NINEA sans le RCCM ?
+R : Pour une personne physique qui n'a pas encore son RCCM, certains centres fiscaux peuvent
+délivrer le NINEA d'abord. Mais la meilleure solution reste l'APIX où tout se fait ensemble.
+
+Q : Mon NINEA change-t-il si je change d'activité ?
+R : Non, le NINEA reste le même. Tu dois juste mettre à jour tes informations.
+
+Q : Le NINEA et le NIF (Numéro d'Identification Fiscale), c'est la même chose ?
+R : Oui, au Sénégal le NINEA sert aussi d'identifiant fiscal. Il remplace le NIF.
+
+Q : Que se passe-t-il si je n'ai pas de NINEA ?
+R : Tu ne peux pas : ouvrir un compte bancaire professionnel, passer en douane (import/export),
+répondre à des marchés publics, ni te déclarer à la sécurité sociale.

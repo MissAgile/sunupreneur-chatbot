@@ -1,0 +1,105 @@
+# MODULE 3 : LE RCCM — REGISTRE DU COMMERCE ET DU CRÉDIT MOBILIER
+# Source : APIX, senegalservices.sn, OHADA, africanlegalfactory.com
+
+## C'est quoi le RCCM ?
+Le Registre du Commerce et du Crédit Mobilier (RCCM) est le registre officiel où sont immatriculées
+toutes les personnes physiques et morales exerçant une activité commerciale au Sénégal.
+Il est institué par l'Acte uniforme OHADA portant sur le droit commercial général.
+
+L'immatriculation au RCCM te donne une présomption de la qualité de commerçant.
+Ton dossier RCCM contient : ta dénomination sociale, ton nom commercial, ton sigle, tes activités,
+la forme de ta société, et ton adresse.
+
+## Qui doit s'inscrire au RCCM ?
+- Toute personne physique exerçant une activité commerciale (commerçant individuel)
+- Toutes les sociétés : SARL, SA, SAS, SNC, GIE, SUARL
+- Toute personne morale exerçant une activité commerciale au Sénégal
+
+## Où faire l'inscription ?
+
+### Option 1 — APIX / BCE (Recommandé, le plus rapide)
+Bureau d'Appui à la Création d'Entreprise (BCE) au Centre de Facilitation des Procédures Administratives de l'APIX.
+Avantage : tout se fait en un seul guichet (RCCM + NINEA + déclaration d'établissement en même temps).
+Délai : 24 heures
+Horaires dépôt : 8h à 11h — Retrait : 15h à 17h
+
+### Option 2 — CCIAD (Chambre de Commerce)
+Centre de Formalités des Entreprises (CFE) de la Chambre de Commerce, d'Industrie et d'Agriculture de Dakar.
+
+### Option 3 — Greffe du Tribunal Régional
+Pour les entreprises hors de Dakar, l'immatriculation se fait au greffe du tribunal régional
+du lieu du siège social.
+Exemple : entreprise à Saint-Louis → immatriculation à Saint-Louis
+Exemple : entreprise à Ziguinchor → immatriculation à Ziguinchor
+
+Note importante : Pour les sociétés (SARL, SA…), ce sont les notaires qui encadrent la procédure
+et traitent avec les intéressés.
+
+## Documents à fournir
+
+### Pour une entreprise individuelle
+- 2 copies de la Carte Nationale d'Identité (CNI)
+- Extrait du casier judiciaire datant de moins de 3 mois
+  OU déclaration sur l'honneur (disponible au BCE, à remplir et signer sur place)
+- Certificat de résidence délivré par la police ou la mairie
+  (sur présentation de l'attestation de domicile de ton chef de quartier)
+
+### Pour une SARL
+- Statuts de la société (rédigés et signés)
+- Procès-verbal (PV) de nomination du gérant
+- Copie CNI du gérant et des associés
+- Justificatif de domicile du siège social (bail ou titre de propriété)
+- Casier judiciaire du gérant de moins de 3 mois
+- Preuve de dépôt du capital en banque ou chez notaire
+
+### Pour un GIE
+- 3 imprimés des statuts, du règlement intérieur et du PV de l'AG constitutive
+- Extrait du casier judiciaire du Président (moins de 3 mois) ou déclaration sur l'honneur
+- CNI de tous les membres fondateurs
+Note : le dépôt doit être fait par un membre du GIE.
+Au retrait, le Président ou la personne désignée au PV doit se présenter pour signer.
+
+## Délais et coûts
+
+### Délais
+- Via l'APIX (BCE) : 24 heures
+- Via le greffe ou CCIAD : variable, généralement 2 à 5 jours
+
+### Coûts — Entreprise individuelle SANS nom commercial
+| Frais | Montant |
+|-------|---------|
+| Frais de greffe | 10 000 FCFA |
+| Timbre fiscal | 2 000 FCFA |
+| Participation CCIAD | 4 000 FCFA |
+| **TOTAL** | **~16 000 FCFA** |
+
+### Coûts — Entreprise individuelle AVEC nom commercial
+| Frais | Montant |
+|-------|---------|
+| Frais de greffe | 10 000 FCFA |
+| Enregistrement nom commercial OAPI | 10 000 FCFA |
+| Timbre fiscal | 2 000 FCFA |
+| Participation CCIAD | 4 000 FCFA |
+| **TOTAL** | **~26 000 FCFA** |
+
+## Ce que tu reçois après inscription
+- Registre de Commerce et du Crédit Mobilier (carte/document RCCM)
+- Numéro RCCM unique
+- Déclaration d'établissement
+- (Si via APIX) l'avis d'immatriculation au NINEA en même temps
+
+## Questions fréquentes
+
+Q : Est-ce que le RCCM et le NINEA sont la même chose ?
+R : Non. Le RCCM prouve que tu es commerçant enregistré. Le NINEA est ton numéro fiscal unique.
+Les deux sont nécessaires pour être 100% légal. À l'APIX, tu les obtiens ensemble en 24h.
+
+Q : Peut-on vérifier si une entreprise est bien enregistrée au RCCM ?
+R : Oui, sur le site seninfogreffe.sn, tu peux rechercher n'importe quelle entreprise par son nom.
+
+Q : Faut-il un notaire pour créer une entreprise individuelle ?
+R : Non, pas pour une entreprise individuelle. Le notaire est obligatoire pour les sociétés (SARL, SA).
+
+Q : Que se passe-t-il si on exerce sans RCCM ?
+R : C'est une infraction. On peut te réclamer des amendes et tu n'as aucune protection légale.
+Tu ne peux pas non plus ouvrir un compte bancaire professionnel ni répondre à des appels d'offres.
