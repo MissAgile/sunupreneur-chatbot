@@ -108,7 +108,7 @@ def stream_reponse(messages_payload: list, temp: float):
         with requests.post(
             URL,
             json=payload,
-            headers={"Authorization": f"Bearer {API_KEY}"},
+            headers={"Authorization": f"Bearer {MISTRAL_API_KEY}"},
             stream=True,
             timeout=60
         ) as response:
